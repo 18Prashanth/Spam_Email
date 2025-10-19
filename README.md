@@ -42,8 +42,7 @@ The trained model achieved:
 - **Recall:** 0.9517
 
 
-
+---
 👤 Author
-
 Prashanth Gowda A S
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/prashanthgowdaas/)
